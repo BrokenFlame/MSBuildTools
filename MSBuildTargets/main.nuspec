@@ -17,7 +17,7 @@
     <!-- <licenseUrl>http://xunit.codeplex.com/license</licenseUrl>
     <iconUrl> </iconUrl>
     <dependencies>
-<!--     <dependency id="SampleDependency" version="1.0" />-->
+    <dependency id="SampleDependency" version="1.0" />
     </dependencies>
 
     <copyright> 
