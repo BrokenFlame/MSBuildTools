@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>MSBuildTargets</id>
+    <id>BrokenFlame.Tools.MSBuildTargets</id>
     <version>1.0</version>
     <authors></authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -12,8 +12,8 @@
         Contains Microsoft.WebApplication.Target
     </releaseNotes>
     <language>en-US</language>
-    <projectUrl>http://github.com/BrokenFlame/MSBuildTools</projectUrl>
-    <!-- 
+    <!-- <projectUrl>http://github.com/BrokenFlame/MSBuildTools</projectUrl>
+     
     <licenseUrl>http://xunit.codeplex.com/license</licenseUrl>
     <iconUrl> </iconUrl>
     <dependencies>
@@ -24,9 +24,9 @@
     -->
     <tags> Microsoft.WebApplication.Targets MsBuild
     </tags>
-    <developmentDependency>
+    <!-- <developmentDependency>
         true
-    </developmentDependency>
+    </developmentDependency> -->
   </metadata>
   <files>
     <file src="**\*" />
