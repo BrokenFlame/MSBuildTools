@@ -3,7 +3,7 @@
   <metadata>
     <id>BrokenFlame.Tools.MSBuildTargets</id>
     <version>1.0</version>
-    <authors></authors>
+    <authors>BrokenFlame</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
         Provides MSBuild with the WebApplication.Targets file and dll's to build Visual Studio 2012 and 2013 Web Applications
@@ -24,9 +24,9 @@
     -->
     <tags> Microsoft.WebApplication.Targets MsBuild
     </tags>
-    <!-- <developmentDependency>
+    <developmentDependency>
         true
-    </developmentDependency> -->
+    </developmentDependency>
   </metadata>
   <files>
     <file src="**\*" />
