@@ -6,22 +6,22 @@
     <authors></authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-        A package that has framework assemblyReferences depending 
-        on the target framework.
+        Provides MSBuild with the WebApplication.Targets file and dll's to build Visual Studio 2012 and 2013 Web Applications
     </description>
     <releaseNotes>
         Contains Microsoft.WebApplication.Target
     </releaseNotes>
     <language>en-US</language>
-    <projectUrl>https://github.com/BrokenFlame/MSBuildTools</projectUrl>
-    <!-- <licenseUrl>http://xunit.codeplex.com/license</licenseUrl>
+    <projectUrl>http://github.com/BrokenFlame/MSBuildTools</projectUrl>
+    <!-- 
+    <licenseUrl>http://xunit.codeplex.com/license</licenseUrl>
     <iconUrl> </iconUrl>
     <dependencies>
     <dependency id="SampleDependency" version="1.0" />
     </dependencies>
-
     <copyright> 
-    </copyright> -->
+    </copyright> 
+    -->
     <tags> Microsoft.WebApplication.Targets MsBuild
     </tags>
     <developmentDependency>
